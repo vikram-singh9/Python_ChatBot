@@ -1,6 +1,6 @@
 # uv init chatbot
 
-A simple chat bot made with uv streamlit and chainlit
+A simple chat bot made with uv python and chainlit
 
 
 pip install chainlit / uv add chainlit
